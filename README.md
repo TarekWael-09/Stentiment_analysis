@@ -51,7 +51,7 @@ This project follows a standard machine learning pipeline:
 📦 Sentiment Analysis Project
 ├── Reddit_Data.csv
 ├── Twitter_Data.csv
-├── Uneeq_Sentiment.ipynb      # Jupyter notebook with all code
+├── Sentiment Analysis.ipynb      # Jupyter notebook with all code
 └── README.md
 ```
 
@@ -79,7 +79,7 @@ nltk.download('wordnet')
 
 4. **Launch the Notebook:**
 ```bash
-jupyter notebook Uneeq_Sentiment.ipynb
+jupyter notebook Sentiment Analysis.ipynb
 ```
 
 ---
